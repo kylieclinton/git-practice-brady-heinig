@@ -1,0 +1,22 @@
+11d1e2b fixed merge conflict
+80bc846 some new text
+7f59ae1 added new text
+545d14b merge reattempt
+613caf0 added blah blah blah
+5d02b83  changed new features file
+dee4209 add empty file
+8ddb2ab commit 1
+07ebef5 Merge Branches
+8de24da file 1 update
+38c018c add features file
+ae85819 redo gitignore
+a4a13c4 merge branches
+be50f2a update file_1
+48ce8aa ignore file
+0d10e00 add empty file
+c93319b Add gitignore file
+a51c787 Added Title to Readme
+9c08ab3 yo yo
+9840077 Update Readme
+80bde6f Change file 1 and file 2
+fa3c023 New commit
